@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Twin Cities Google Technology Users Group</string>
-    <string name ="no_feeds">Sorry, there are no items in the What&apos;s New RSS feed.</string>
+    <string name ="no_feeds">Sorry, there are no items in the What\'s New RSS feed.</string>
 </resources>
